@@ -1,0 +1,13 @@
+name: VCDrops
+main: com.min3craftdud3.VCDrops.VCDrops
+version: 1.0
+description: Chest Spawning Plugin.
+author: Min3CraftDud3
+website: http://www.Min3CraftDud3.com
+commands:
+  chest:
+    permission: VCDrops.Chest
+    description: "Adds a chest to the config file for autospawns."
+  update:
+    permission: VCDrops.Update
+    description: "Updates plugin, must be console/op."
